@@ -1,0 +1,7 @@
+{
+  "name": "FunSky WebView",
+  "description": "Android WebView application for https://funsky.top/login.php?from=apk with custom offline error screen and pull-to-refresh mechanism.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
